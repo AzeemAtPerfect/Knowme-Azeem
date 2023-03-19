@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    background-color: lightblue;
+}
+.container-offwhite {
+    background-color: lightgray;
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+}
